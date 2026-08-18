@@ -70,33 +70,25 @@ Interactive dashboard covering:
 - Credit limit and utilization patterns
 - Filterable by age group, education level, and marital status
 
-*(Add a screenshot of your dashboard here — see below)*
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-> Add a screenshot: export a PNG from Power BI (File → Export → Image) and save it as `powerbi/dashboard_preview.png`, then reference it here:
->
-> `![Dashboard Preview](powerbi/dashboard_preview.png)`
+![Power BI Dashboard 1](powerbi/dashboard2.png)
+
+![Power BI Dashboard 2](powerbi/dashboard1.png)
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Python:** Pandas, NumPy, Matplotlib
+- **Python:** Pandas, NumPy
 - **SQL:** Standard ANSI SQL (window functions, subqueries, aggregation)
 - **Power BI:** Interactive dashboard and DAX measures
 
 ---
 
-## 🚀 How to Use
-
-1. **Python:** Open `python/churn_analysis.ipynb` in Jupyter or VS Code and run all cells.
-2. **SQL:** Load `data/BankChurners_Cleaned.csv` into your database, then run `sql/bankchurners_query.sql`.
-3. **Power BI:** Open `powerbi/BankChurnAnalysis.pbix` in Power BI Desktop.
-
----
 
 ## 📎 Dataset Source
 
